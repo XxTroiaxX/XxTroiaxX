@@ -4,4 +4,4 @@
 My main choice for web development is JavaScript with Node.js!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxTroiaxX)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XxTroiaxX&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxTroiaxX)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XxTroiaxX&show_icons=true&&count_private=true)  
