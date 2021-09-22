@@ -5,14 +5,15 @@
 ### I'm Pedro Tróia and I'm a web developer!
 
 ## 🔧 Technologies & Tools
-<div align="center"></>
+<div align="center">
+    
     
 ![](https://img.shields.io/badge/OS-macOS-%235d2eb0)    
 ![](![](https://img.shields.io/badge/OS-macOS-%235d2eb0)    
 )    
 ![](https://img.shields.io/badge/OS-macOS-%235d2eb0)    
     
-<div>
+</div>
 
 
 <div align="center">
