@@ -1,8 +1,7 @@
-### Hi there 👋, Welcome to my profile!
+# Hi there 👋, Welcome to my profile!
 #### I'm Pedro Tróia and I'm a web developer!
 
 
-## Tecnologies
 
 <div align="center">
     <img alt="Stats" height="185em" src="https://github-readme-stats.vercel.app/api?username=XxTroiaxX&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark" />
