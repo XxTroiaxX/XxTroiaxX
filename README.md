@@ -1,6 +1,5 @@
 ### Hi there 👋, Welcome to my profile!
 #### I'm Pedro Tróia and I'm a web developer!
-![I'm Pedro Tróia and I'm a web developer!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 My main choice for web development is JavaScript with Node.js!
 
