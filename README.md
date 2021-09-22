@@ -1,9 +1,15 @@
 # Hi there 👋, Welcome to my profile!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/pedro-tr%C3%B3ia-aa58641a5/)
+
 ### I'm Pedro Tróia and I'm a web developer!
 
 ## 🔧 Technologies & Tools
 <div align="center"></>
     
+![](https://img.shields.io/badge/OS-macOS-%235d2eb0)    
+![](![](https://img.shields.io/badge/OS-macOS-%235d2eb0)    
+)    
 ![](https://img.shields.io/badge/OS-macOS-%235d2eb0)    
     
 <div>
