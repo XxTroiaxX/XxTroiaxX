@@ -2,7 +2,7 @@
 #### I'm Pedro Tróia and I'm a web developer!
 
 
-##Tecnologies
+## Tecnologies
 
 
 <p align="center"> 
